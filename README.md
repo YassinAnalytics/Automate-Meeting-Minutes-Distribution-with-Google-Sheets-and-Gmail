@@ -40,7 +40,7 @@ Perfect for anyone who:
 
 - You’ll get this: An email containing your full meeting minutes, straight from your notes.
 
-- <img width="1209" height="398" alt="image" src="https://github.com/user-attachments/assets/a4df3fcf-f529-4fef-9f0a-0fe10b712fa9" />
+<img width="1209" height="398" alt="image" src="https://github.com/user-attachments/assets/a4df3fcf-f529-4fef-9f0a-0fe10b712fa9" />
 
 ## Tutorial video
 https://www.youtube.com/watch?v=AbnZSf19UHw
